@@ -1,0 +1,15 @@
+D:\Study\Hillel\Library\Library\bin\Debug\net6.0\Library.exe
+D:\Study\Hillel\Library\Library\bin\Debug\net6.0\Library.deps.json
+D:\Study\Hillel\Library\Library\bin\Debug\net6.0\Library.runtimeconfig.json
+D:\Study\Hillel\Library\Library\bin\Debug\net6.0\Library.dll
+D:\Study\Hillel\Library\Library\bin\Debug\net6.0\Library.pdb
+D:\Study\Hillel\Library\Library\obj\Debug\net6.0\Library.csproj.AssemblyReference.cache
+D:\Study\Hillel\Library\Library\obj\Debug\net6.0\Library.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study\Hillel\Library\Library\obj\Debug\net6.0\Library.AssemblyInfoInputs.cache
+D:\Study\Hillel\Library\Library\obj\Debug\net6.0\Library.AssemblyInfo.cs
+D:\Study\Hillel\Library\Library\obj\Debug\net6.0\Library.csproj.CoreCompileInputs.cache
+D:\Study\Hillel\Library\Library\obj\Debug\net6.0\Library.dll
+D:\Study\Hillel\Library\Library\obj\Debug\net6.0\refint\Library.dll
+D:\Study\Hillel\Library\Library\obj\Debug\net6.0\Library.pdb
+D:\Study\Hillel\Library\Library\obj\Debug\net6.0\Library.genruntimeconfig.cache
+D:\Study\Hillel\Library\Library\obj\Debug\net6.0\ref\Library.dll
