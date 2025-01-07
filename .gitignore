@@ -1,0 +1,28 @@
+# Ignore IDE settings
+.idea/           # IntelliJ IDEA, Rider, PhpStorm
+.vscode/         # Visual Studio Code
+
+# Ignore logs
+*.log
+
+# Ignore temporary files
+*.tmp
+*.temp
+*.swp
+*.swo
+
+# Ignore system files
+.DS_Store        # macOS
+Thumbs.db        # Windows
+
+# Ignore archives
+*.zip
+*.tar.gz
+*.rar
+*.7z
+
+# Ignore user-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
