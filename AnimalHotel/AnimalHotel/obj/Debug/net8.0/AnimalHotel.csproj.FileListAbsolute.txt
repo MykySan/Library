@@ -1,0 +1,15 @@
+E:\Учёба\Programming\Projects\training\Library\AnimalHotel\AnimalHotel\bin\Debug\net8.0\AnimalHotel.exe
+E:\Учёба\Programming\Projects\training\Library\AnimalHotel\AnimalHotel\bin\Debug\net8.0\AnimalHotel.deps.json
+E:\Учёба\Programming\Projects\training\Library\AnimalHotel\AnimalHotel\bin\Debug\net8.0\AnimalHotel.runtimeconfig.json
+E:\Учёба\Programming\Projects\training\Library\AnimalHotel\AnimalHotel\bin\Debug\net8.0\AnimalHotel.dll
+E:\Учёба\Programming\Projects\training\Library\AnimalHotel\AnimalHotel\bin\Debug\net8.0\AnimalHotel.pdb
+E:\Учёба\Programming\Projects\training\Library\AnimalHotel\AnimalHotel\obj\Debug\net8.0\AnimalHotel.GeneratedMSBuildEditorConfig.editorconfig
+E:\Учёба\Programming\Projects\training\Library\AnimalHotel\AnimalHotel\obj\Debug\net8.0\AnimalHotel.AssemblyInfoInputs.cache
+E:\Учёба\Programming\Projects\training\Library\AnimalHotel\AnimalHotel\obj\Debug\net8.0\AnimalHotel.AssemblyInfo.cs
+E:\Учёба\Programming\Projects\training\Library\AnimalHotel\AnimalHotel\obj\Debug\net8.0\AnimalHotel.csproj.CoreCompileInputs.cache
+E:\Учёба\Programming\Projects\training\Library\AnimalHotel\AnimalHotel\obj\Debug\net8.0\AnimalHotel.sourcelink.json
+E:\Учёба\Programming\Projects\training\Library\AnimalHotel\AnimalHotel\obj\Debug\net8.0\AnimalHotel.dll
+E:\Учёба\Programming\Projects\training\Library\AnimalHotel\AnimalHotel\obj\Debug\net8.0\refint\AnimalHotel.dll
+E:\Учёба\Programming\Projects\training\Library\AnimalHotel\AnimalHotel\obj\Debug\net8.0\AnimalHotel.pdb
+E:\Учёба\Programming\Projects\training\Library\AnimalHotel\AnimalHotel\obj\Debug\net8.0\AnimalHotel.genruntimeconfig.cache
+E:\Учёба\Programming\Projects\training\Library\AnimalHotel\AnimalHotel\obj\Debug\net8.0\ref\AnimalHotel.dll
