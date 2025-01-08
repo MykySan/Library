@@ -1,0 +1,15 @@
+E:\Учёба\Programming\Projects\training\Library\NumAnalyzer\NumAnalyzer\bin\Debug\net8.0\NumAnalyzer.exe
+E:\Учёба\Programming\Projects\training\Library\NumAnalyzer\NumAnalyzer\bin\Debug\net8.0\NumAnalyzer.deps.json
+E:\Учёба\Programming\Projects\training\Library\NumAnalyzer\NumAnalyzer\bin\Debug\net8.0\NumAnalyzer.runtimeconfig.json
+E:\Учёба\Programming\Projects\training\Library\NumAnalyzer\NumAnalyzer\bin\Debug\net8.0\NumAnalyzer.dll
+E:\Учёба\Programming\Projects\training\Library\NumAnalyzer\NumAnalyzer\bin\Debug\net8.0\NumAnalyzer.pdb
+E:\Учёба\Programming\Projects\training\Library\NumAnalyzer\NumAnalyzer\obj\Debug\net8.0\NumAnalyzer.GeneratedMSBuildEditorConfig.editorconfig
+E:\Учёба\Programming\Projects\training\Library\NumAnalyzer\NumAnalyzer\obj\Debug\net8.0\NumAnalyzer.AssemblyInfoInputs.cache
+E:\Учёба\Programming\Projects\training\Library\NumAnalyzer\NumAnalyzer\obj\Debug\net8.0\NumAnalyzer.AssemblyInfo.cs
+E:\Учёба\Programming\Projects\training\Library\NumAnalyzer\NumAnalyzer\obj\Debug\net8.0\NumAnalyzer.csproj.CoreCompileInputs.cache
+E:\Учёба\Programming\Projects\training\Library\NumAnalyzer\NumAnalyzer\obj\Debug\net8.0\NumAnalyzer.sourcelink.json
+E:\Учёба\Programming\Projects\training\Library\NumAnalyzer\NumAnalyzer\obj\Debug\net8.0\NumAnalyzer.dll
+E:\Учёба\Programming\Projects\training\Library\NumAnalyzer\NumAnalyzer\obj\Debug\net8.0\refint\NumAnalyzer.dll
+E:\Учёба\Programming\Projects\training\Library\NumAnalyzer\NumAnalyzer\obj\Debug\net8.0\NumAnalyzer.pdb
+E:\Учёба\Programming\Projects\training\Library\NumAnalyzer\NumAnalyzer\obj\Debug\net8.0\NumAnalyzer.genruntimeconfig.cache
+E:\Учёба\Programming\Projects\training\Library\NumAnalyzer\NumAnalyzer\obj\Debug\net8.0\ref\NumAnalyzer.dll
