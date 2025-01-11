@@ -1,0 +1,43 @@
+2025-01-11 19:06:13 [INFO] Buffer created with capacity: 5
+2025-01-11 19:06:13 [INFO] Item added to buffer: 41
+2025-01-11 19:06:13 [INFO] Item removed from buffer: 41
+2025-01-11 19:06:13 [INFO] Processed number: 41, Square: 1681
+2025-01-11 19:06:13 [DEBUG] Buffer empty, waiting to remove...
+2025-01-11 19:06:13 [INFO] Item added to buffer: 2
+2025-01-11 19:06:13 [INFO] Item removed from buffer: 2
+2025-01-11 19:06:13 [INFO] Processed number: 2, Square: 4
+2025-01-11 19:06:14 [INFO] Item added to buffer: 45
+2025-01-11 19:06:14 [INFO] Item removed from buffer: 45
+2025-01-11 19:06:14 [INFO] Processed number: 45, Square: 2025
+2025-01-11 19:06:14 [DEBUG] Buffer empty, waiting to remove...
+2025-01-11 19:06:14 [INFO] Item added to buffer: 55
+2025-01-11 19:06:14 [INFO] Item removed from buffer: 55
+2025-01-11 19:06:14 [INFO] Processed number: 55, Square: 3025
+2025-01-11 19:06:15 [DEBUG] Buffer empty, waiting to remove...
+2025-01-11 19:06:15 [INFO] Item added to buffer: 37
+2025-01-11 19:06:15 [INFO] Item removed from buffer: 37
+2025-01-11 19:06:15 [INFO] Processed number: 37, Square: 1369
+2025-01-11 19:06:15 [DEBUG] Buffer empty, waiting to remove...
+2025-01-11 19:06:15 [INFO] Item added to buffer: 28
+2025-01-11 19:06:15 [INFO] Item removed from buffer: 28
+2025-01-11 19:06:15 [INFO] Processed number: 28, Square: 784
+2025-01-11 19:06:16 [INFO] Item added to buffer: 79
+2025-01-11 19:06:16 [INFO] Item removed from buffer: 79
+2025-01-11 19:06:16 [INFO] Processed number: 79, Square: 6241
+2025-01-11 19:06:16 [INFO] Item added to buffer: 91
+2025-01-11 19:06:16 [INFO] Item removed from buffer: 91
+2025-01-11 19:06:16 [INFO] Processed number: 91, Square: 8281
+2025-01-11 19:06:17 [INFO] Item added to buffer: 32
+2025-01-11 19:06:17 [INFO] Item removed from buffer: 32
+2025-01-11 19:06:17 [INFO] Processed number: 32, Square: 1024
+2025-01-11 19:06:17 [INFO] Item added to buffer: 47
+2025-01-11 19:06:17 [INFO] Item removed from buffer: 47
+2025-01-11 19:06:17 [INFO] Processed number: 47, Square: 2209
+2025-01-11 19:06:18 [INFO] Item added to buffer: 89
+2025-01-11 19:06:18 [INFO] Item removed from buffer: 89
+2025-01-11 19:06:18 [INFO] Processed number: 89, Square: 7921
+2025-01-11 19:06:18 [INFO] Producer has completed adding.
+2025-01-11 19:06:18 [INFO] Producer completed.
+2025-01-11 19:06:18 [DEBUG] No more items to process. Exiting...
+2025-01-11 19:06:18 [INFO] Consumer completed.
+2025-01-11 19:06:18 [INFO] Program finished.

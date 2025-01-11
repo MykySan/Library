@@ -1,0 +1,15 @@
+E:\Учёба\Programming\Projects\training\Library\ThreadSafe\ThreadSafe\bin\Debug\net8.0\ThreadSafe.exe
+E:\Учёба\Programming\Projects\training\Library\ThreadSafe\ThreadSafe\bin\Debug\net8.0\ThreadSafe.deps.json
+E:\Учёба\Programming\Projects\training\Library\ThreadSafe\ThreadSafe\bin\Debug\net8.0\ThreadSafe.runtimeconfig.json
+E:\Учёба\Programming\Projects\training\Library\ThreadSafe\ThreadSafe\bin\Debug\net8.0\ThreadSafe.dll
+E:\Учёба\Programming\Projects\training\Library\ThreadSafe\ThreadSafe\bin\Debug\net8.0\ThreadSafe.pdb
+E:\Учёба\Programming\Projects\training\Library\ThreadSafe\ThreadSafe\obj\Debug\net8.0\ThreadSafe.GeneratedMSBuildEditorConfig.editorconfig
+E:\Учёба\Programming\Projects\training\Library\ThreadSafe\ThreadSafe\obj\Debug\net8.0\ThreadSafe.AssemblyInfoInputs.cache
+E:\Учёба\Programming\Projects\training\Library\ThreadSafe\ThreadSafe\obj\Debug\net8.0\ThreadSafe.AssemblyInfo.cs
+E:\Учёба\Programming\Projects\training\Library\ThreadSafe\ThreadSafe\obj\Debug\net8.0\ThreadSafe.csproj.CoreCompileInputs.cache
+E:\Учёба\Programming\Projects\training\Library\ThreadSafe\ThreadSafe\obj\Debug\net8.0\ThreadSafe.sourcelink.json
+E:\Учёба\Programming\Projects\training\Library\ThreadSafe\ThreadSafe\obj\Debug\net8.0\ThreadSafe.dll
+E:\Учёба\Programming\Projects\training\Library\ThreadSafe\ThreadSafe\obj\Debug\net8.0\refint\ThreadSafe.dll
+E:\Учёба\Programming\Projects\training\Library\ThreadSafe\ThreadSafe\obj\Debug\net8.0\ThreadSafe.pdb
+E:\Учёба\Programming\Projects\training\Library\ThreadSafe\ThreadSafe\obj\Debug\net8.0\ThreadSafe.genruntimeconfig.cache
+E:\Учёба\Programming\Projects\training\Library\ThreadSafe\ThreadSafe\obj\Debug\net8.0\ref\ThreadSafe.dll
